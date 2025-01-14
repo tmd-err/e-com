@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/e-com/static/css/main.03acc84a.css",
-    "main.js": "/e-com/static/js/main.5e78d36c.js",
-    "static/media/pexels-olly-974911.jpg": "/e-com/static/media/pexels-olly-974911.81a192617cb69b6b6630.jpg",
-    "static/media/manCategory.png": "/e-com/static/media/manCategory.ee0e0c41d33231b65559.png",
-    "static/media/womenCategory.png": "/e-com/static/media/womenCategory.91d9db45ee61247c346e.png",
-    "static/media/childCategory.png": "/e-com/static/media/childCategory.9f30d19e6d860dea935d.png",
-    "static/media/no_product_found.webp": "/e-com/static/media/no_product_found.9a23d9ff50f045b21531.webp",
-    "index.html": "/e-com/index.html",
-    "main.03acc84a.css.map": "/e-com/static/css/main.03acc84a.css.map",
-    "main.5e78d36c.js.map": "/e-com/static/js/main.5e78d36c.js.map"
+    "main.css": "/ecom/static/css/main.03acc84a.css",
+    "main.js": "/ecom/static/js/main.ca4de67a.js",
+    "static/media/pexels-olly-974911.jpg": "/ecom/static/media/pexels-olly-974911.81a192617cb69b6b6630.jpg",
+    "static/media/manCategory.png": "/ecom/static/media/manCategory.ee0e0c41d33231b65559.png",
+    "static/media/womenCategory.png": "/ecom/static/media/womenCategory.91d9db45ee61247c346e.png",
+    "static/media/childCategory.png": "/ecom/static/media/childCategory.9f30d19e6d860dea935d.png",
+    "static/media/no_product_found.webp": "/ecom/static/media/no_product_found.9a23d9ff50f045b21531.webp",
+    "index.html": "/ecom/index.html",
+    "main.03acc84a.css.map": "/ecom/static/css/main.03acc84a.css.map",
+    "main.ca4de67a.js.map": "/ecom/static/js/main.ca4de67a.js.map"
   },
   "entrypoints": [
     "static/css/main.03acc84a.css",
-    "static/js/main.5e78d36c.js"
+    "static/js/main.ca4de67a.js"
   ]
 }
